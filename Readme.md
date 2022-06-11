@@ -2,7 +2,7 @@
 
 ## Herkese Selamlar
 
-Bu proje, Unity ile yaptığım bir **2D Platformer oyun** deneme projem.
+Bu proje, Unity ile yaptığım bir ***2D Platformer Game*** deneme projem.
 
 Bu projeyi yapmamdaki amaç; Unity ile 2D Platformer oyun yaparkenki süreci planlayıp, bu oyuna uygun olabilecek mekanikler deneyerek bütün oyun yapım sürecini deneyimlemekti.
 
