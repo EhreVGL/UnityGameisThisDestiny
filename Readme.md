@@ -25,19 +25,19 @@ Bir canlının üzerine gelinip E tuşuna basıldığı zaman o canlı ile etkil
 
 ![](./examples/pressE.gif)
 
-Alpha1 tuşuna basarak melee mekaniği aktif ediliyor.
+Alpha1 tuşuna basarak melee mekaniği aktif ediliyor. (Her zaman aktif edilebilir)
 
 ![](./examples/melee.gif)
 
-Alpha2 tuşuna basarak range mekaniği aktif ediliyor.
+Alpha2 tuşuna basarak range mekaniği aktif ediliyor. (İlk Upgrade'den sonra aktif edilebilir.)
 
 ![](./examples/range.gif)
 
-Alpha3 tuşuna basarak hook mekaniği aktif ediliyor.
+Alpha3 tuşuna basarak hook mekaniği aktif ediliyor. (İkinci Upgrade'den sonra aktif edilebilir.)
 
 ![](./examples/hook.gif)
 
-Alpha4 tuşuna basarak fly mekaniği aktif ediliyor.
+Alpha4 tuşuna basarak fly mekaniği aktif ediliyor.  (Üçüncü Upgrade'den sonra aktif edilebilir.)
 
 ![](./examples/flight.gif)
 
